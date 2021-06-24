@@ -22,7 +22,7 @@ app.use(session({
 
 // 引入 Mongoose 與連結設定
 const mongoose = require('mongoose')
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/urlShortener', {
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://user-miao:024785et@cluster0.qvv6j.mongodb.net/myFirstDatabase?retryWrites=true&w=majority', {
   useNewUrlParser: true,
   useCreateIndex: true
 })
