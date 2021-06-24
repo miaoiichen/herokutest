@@ -1,6 +1,6 @@
 # 短綱址產生器
 
-practi source from https://learningsky.io/deploy-mongodb-website-to-heroku/
+practice source from https://learningsky.io/deploy-mongodb-website-to-heroku/
 
 ## Contents
 - [簡介](#簡介)
